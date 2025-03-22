@@ -5,7 +5,7 @@
   <groupId>com.isw2</groupId>
   <artifactId>isw2-project</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <!-- 2. Meta-dati del progetto-->
   <name>isw2-project</name>
